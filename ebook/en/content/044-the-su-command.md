@@ -10,6 +10,12 @@ When called without arguments, su defaults to running an interactive shell as ro
 $ su
 ```
 
+In case that you wanted to switch to a user called `devdojo`, you could do that by running the following command:
+
+```
+$ su devdojo
+```
+
 ## The syntax of the `su` command is :
 
 ```bash
