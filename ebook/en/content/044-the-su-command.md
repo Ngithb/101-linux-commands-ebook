@@ -30,3 +30,4 @@ $ su [options] [-] [<user>[<argument>...]]
 -p             --> create a new pseudo terminal
 -h             --> display this help
 -v             --> display version
+```
